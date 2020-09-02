@@ -1,0 +1,50 @@
+parish_ip.txt
+  IP:13.107.21.200 Found :['hphosts_ats']
+   --:hphosts_ats : hpHosts: ad/tracking servers listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:185.199.110.153 Found :['coinbl_hosts_optional', 'coinbl_hosts', 'coinbl_hosts_browser', 'hphosts_emd', 'hphosts_fsa', 'hphosts_psh', 'hphosts_ats']
+   --:coinbl_hosts_optional : CoinBlockerLists: Simple lists that can help prevent cryptomining in the browser or other applications. This list contains additional domains, for administrators to prevent mining in networks. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:coinbl_hosts : CoinBlockerLists: Simple lists that can help prevent cryptomining in the browser or other applications. This list contains all domains - A list for administrators to prevent mining in networks. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:coinbl_hosts_browser : CoinBlockerLists: Simple lists that can help prevent cryptomining in the browser or other applications. A hosts list to prevent browser mining only. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:hphosts_emd : hpHosts: malware sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:hphosts_fsa : hpHosts: fraud sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:hphosts_psh : hpHosts: phishing sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:hphosts_ats : hpHosts: ad/tracking servers listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:188.166.49.116 Found :['hphosts_wrz', 'hphosts_ats']
+   --:hphosts_wrz : hpHosts: warez/piracy sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:hphosts_ats : hpHosts: ad/tracking servers listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:204.79.197.200 Found :['yoyo_adservers', 'cleanmx_viruses', 'hphosts_ats']
+   --:yoyo_adservers : Yoyo.org: IPs of ad servers
+   --:cleanmx_viruses : Clean-MX.de: IPs with viruses
+   --:hphosts_ats : hpHosts: ad/tracking servers listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:204.79.197.203 Found :['hphosts_ats']
+   --:hphosts_ats : hpHosts: ad/tracking servers listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:205.185.216.10 Found :['cleanmx_viruses', 'hphosts_emd', 'hphosts_ats']
+   --:cleanmx_viruses : Clean-MX.de: IPs with viruses
+   --:hphosts_emd : hpHosts: malware sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:hphosts_ats : hpHosts: ad/tracking servers listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:205.185.216.42 Found :['cleanmx_viruses', 'hphosts_emd', 'hphosts_ats']
+   --:cleanmx_viruses : Clean-MX.de: IPs with viruses
+   --:hphosts_emd : hpHosts: malware sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:hphosts_ats : hpHosts: ad/tracking servers listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:208.73.211.177 Found :['bambenek_c2', 'hphosts_emd', 'hphosts_fsa', 'hphosts_psh', 'hphosts_pha', 'hphosts_ats', 'bambenek_banjori']
+   --:bambenek_c2 : Bambenek Consulting: master feed of known, active and non-sinkholed C&Cs IP addresses
+   --:hphosts_emd : hpHosts: malware sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:hphosts_fsa : hpHosts: fraud sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:hphosts_psh : hpHosts: phishing sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:hphosts_pha : hpHosts: illegal pharmacy sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:hphosts_ats : hpHosts: ad/tracking servers listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:bambenek_banjori : Bambenek Consulting: feed of current IPs of banjori C&Cs with 90 minute lookback
+  IP:65.55.44.109 Found :['hphosts_ats']
+   --:hphosts_ats : hpHosts: ad/tracking servers listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:69.16.175.10 Found :['cleanmx_viruses', 'hphosts_emd', 'hphosts_ats']
+   --:cleanmx_viruses : Clean-MX.de: IPs with viruses
+   --:hphosts_emd : hpHosts: malware sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:hphosts_ats : hpHosts: ad/tracking servers listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:69.16.175.42 Found :['cleanmx_viruses', 'hphosts_emd', 'hphosts_ats']
+   --:cleanmx_viruses : Clean-MX.de: IPs with viruses
+   --:hphosts_emd : hpHosts: malware sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+   --:hphosts_ats : hpHosts: ad/tracking servers listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:93.174.93.123 Found :['alienvault_reputation']
+   --:alienvault_reputation : AlienVault.com: IP reputation database
+  IP:164.155.219.11 Found :['bambenek_hesperbot']
+   --:bambenek_hesperbot : Bambenek Consulting: feed of current IPs of hesperbot C&Cs with 90 minute lookback

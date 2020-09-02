@@ -1,0 +1,17 @@
+uniq_ips.txt
+  IP:73.185.150.150 Found :['blocklist_net_ua']
+   --:blocklist_net_ua : blocklist.net.ua: The BlockList project was created to become protection against negative influence of the harmful and potentially dangerous events on the Internet. First of all this service will help internet and hosting providers to protect subscribers sites from being hacked. BlockList will help to stop receiving a large amount of spam from dubious SMTP relays or from attempts of brute force passwords to servers and network equipment.
+  IP:65.55.44.109 Found :['hphosts_ats']
+   --:hphosts_ats : hpHosts: ad/tracking servers listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:34.195.36.24 Found :['hphosts_fsa']
+   --:hphosts_fsa : hpHosts: fraud sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:204.79.197.200 Found :['yoyo_adservers', 'cleanmx_viruses', 'hphosts_ats']
+   --:yoyo_adservers : Yoyo.org: IPs of ad servers
+   --:cleanmx_viruses : Clean-MX.de: IPs with viruses
+   --:hphosts_ats : hpHosts: ad/tracking servers listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:168.62.48.183 Found :['coinbl_hosts']
+   --:coinbl_hosts : CoinBlockerLists: Simple lists that can help prevent cryptomining in the browser or other applications. This list contains all domains - A list for administrators to prevent mining in networks. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:13.107.42.12 Found :['hphosts_emd']
+   --:hphosts_emd : hpHosts: malware sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
+  IP:104.28.25.10 Found :['hphosts_fsa']
+   --:hphosts_fsa : hpHosts: fraud sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.
